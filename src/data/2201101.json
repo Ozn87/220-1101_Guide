@@ -1,0 +1,1473 @@
+[
+  [
+    0,
+    "SIMULATION -Laura, a customer, has instructed you to configure her home office wireless access point.She plans to use the wireless network for finances and has requested that the network be setup with the highest encryption possible.Additionally, Laura knows that her neighbors have wireless networks and wants to ensure that her network is not being interfered with by the other networks.She requests that the default settings be changed to the following.Wireless Name: HomeWiFi -Shared Key: CompTIA -Router Password: Secure$1 -Finally, Laura wants to ensure that only her laptop and SmartPhone can connect to the network.Laptop: IP Address 192.168.1.100Hardware Address: 00:0A:BF:03:C4:54SmartPhone: IP Address 192.168.1.101Hardware Address: 09:2C:D0:22:3F:11INSTRUCTIONS -Configure Lauraג€™s wireless network using the network adapter window.If at any time you would like to bring back the initial state of the simulation, please click the Reset All button.",
+    [["Look at PDF for simulation"]],
+    "                                          Answer :                                                                                                                                                                                                                                                                                          "
+  ],
+  [
+    1,
+    "DRAG DROP -An office manager reports that a printer is experiencing performance issues. Printouts are smudging when they are handled, and, recently, whenever the manager tries to print oversized documents, the paper jams before anything is printed on it.INSTRUCTIONS -Using the available printer parts, replace only the faulty components on the office printer to resolve the stated issues.If at any time you would like to bring back the initial state of the simulation, please click the Reset All button.Select and Place:",
+    [["Look at PDF for simulation"]],
+    "                                          Answer :                                                                                                                                              "
+  ],
+  [
+    2,
+    "DRAG DROP -A small ISP has hired a new technician. Joe, the new technician, is being trained to configure customersג€™ home networks. The training instructor gives the technician a starter kit with cables, cable ends, and other network equipment and asks him to build a working network.The computer should be connected to have Internet connectivity and the phone should be connected to have a dial tone.INSTRUCTIONS -Use the appropriate cables, cable ends, tools and equipment to configure the network and connect all components accordingly.There are 2 steps and the simulation starts on step 1.If at any time you would like to bring back the initial state of the simulation, please click the Reset All button.Select and Place:",
+    [["Look at PDF for simulation"]],
+    "                                          Answer :                                                                                                                                              "
+  ],
+  [
+    3,
+    "A technician is tasked with installing additional RAM in a desktop computer. Which of the following types of RAM is MOST likely to be used?",
+    [["A. SODIMM", "B. DDR3", "C. ECC", "D. VRAM"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    4,
+    "Vertical streaks are appearing on the output of a laser printer. Which of the following items is the MOST likely cause?",
+    [["A. Roller", "B. Drum", "C. Transfer belt", "D. Ribbon"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    5,
+    "A user is trying to play a DVD on a projector. The user can hear the audio; however, the projector is showing an error message that states:HDMI Blocked due to Copy ProtectionWhich of the following is the MOST likely cause of the error?",
+    [
+      [
+        "A. The HDMI cannot carry the signal from the DVD to the projector.",
+        "B. The user needs to switch from HDMI to a cable standard such as DisplayPort.",
+        "C. The projector does not support the necessary HDCP protocol.",
+        "D. The user needs to enable cony-protected sources in the projectorג€™s settings. "
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    6,
+    "While implementing a non-carrier-grade wireless backhaul, a technician notices the current channel selection is extremely polluted with various RF signals. Upon performing a spectral analysis, the technician discovers a channel containing almost no RF pollution. Unfortunately, the technician is unable to select that channel.Which of the following is the MOST likely reason for this issue?",
+    [
+      [
+        "A. The channel is reserved for licensed band use.",
+        "B. The channel selection is defective; contact the manufacturer.",
+        "C. The channel must be unlocked by the vendor.",
+        "D. The device requires a firmware update to unlock the channel."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    7,
+    "A user submitted a support ticket that states all of the printouts from a laser printer appear to have double images imposed on them. A review of past printer support tickets shows that a maintenance kit has not been installed in more than a year. Which of the following printer consumables is MOST likely causing the issue?",
+    [
+      [
+        "A. Separation pad",
+        "B. Transfer roller",
+        "C. Ink cartridge",
+        "D. Fuser"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    8,
+    "A technician is configuring a workstation to be used as a VM host. After installing the necessary software, the technician is unable to create any VMs. Which of the following actions should be performed?",
+    [
+      [
+        "A. Disable the BIOS password.",
+        "B. Enable TPM.",
+        "C. Enable multithreading.",
+        "D. Enable Fast Startup."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    9,
+    "A userג€™s computer is not receiving a network connection. The technician confirms that the connection seems to be down and looks for the userג€™s port on the patch panel. The port and patch panel are not labeled. Which of the following network tools should the technician use to identify the port?",
+    [["A. Network tap", "B. Punchdown tool", "C. Toner probe", "D. Crimper"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    10,
+    "A user, who is attempting to give a presentation via a projector in a conference room, reports that the projector has video but no audio. Which of the following willMOST likely resolve the issue?",
+    [
+      [
+        "A. Changing the input on the projector to VGA",
+        "B. Changing the output on the PC to DVI",
+        "C. Modifying the projectorג€™s refresh rate ",
+        "D. Utilizing an HDMI connection"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    11,
+    "A customer reports that a computer is never able to reach more than a 100Mbps transfer data rate, even when using a Gigabit LAN card. While troubleshooting, the technician notices the network cable needs to be replaced. Which of the following cable categories is limiting the transfer speed?",
+    [["A. Cat 5", "B. Cat 5e", "C. Cat 6", "D. Cat 6a"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    12,
+    "While using a popular videoconferencing program, the user selects a webcam, but the software is unable to open the webcam. The webcam was working the previous day. Which of the following should be done to address this issue?",
+    [
+      [
+        "A. Close other video software and retry.",
+        "B. Adjust the conference software to a compatible resolution.",
+        "C. Switch the video from the webcam to ג€conferenceג€ mode. ",
+        "D. Reseat or replace the webcam."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    13,
+    "A user failed to gain access to a buildingג€™s entrance after security measures at the entrance were upgraded last week. The company implemented the 13.56MHz frequency short band, and users can now utilize their mobile devices to authenticate. Which of the following has to be enabled for the mobile device to authenticate?",
+    [["A. Bluetooth", "B. Biometrics", "C. NFC", "D. PIN"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    14,
+    "Which of the following standards supports MIMO technology?",
+    [["A. 802.11a", "B. 802.11b", "C. 802.11g", "D. 802.11n"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    15,
+    "A technician powers on a PC and its monitor and sees the following error message:No input signal detected -The display lights on the computer are on. Which of the following is a possible solution?",
+    [
+      [
+        "A. Changing the BIOS settings",
+        "B. Changing the connector setting on the monitor",
+        "C. Checking the power plug on the monitor",
+        "D. Checking the power plug on the PC"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    16,
+    "Which of the following components enables the input on a mobile deviceג€™s touch screen?",
+    [["A. OLED", "B. Digitizer", "C. Inverter", "D. CMOS sensor"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    17,
+    "A technician unboxed a new computer, plugged it in to a UPS, and connected the requested peripherals. The computer lights and fans turn on, but the technician hears three loud, consecutive beeps during boot. Which of the following actions will remediate the issue?",
+    [
+      [
+        "A. Replacing the power supply",
+        "B. Replacing the UPS",
+        "C. Changing the CMOS battery",
+        "D. Reseating the RAM"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    18,
+    "An IT manager discovered that hundreds of pages of printed materials are being recycled each day because the materials are left on the printer tray instead of being picked up by users. Which of the following would BEST prevent this waste?",
+    [
+      [
+        "A. Send friendly reminders to not print unnecessarily.",
+        "B. Enable duplex printing to reduce paper utilization.",
+        "C. Bill each department for the excess material cost.",
+        "D. Require a code or badge before releasing a print job."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    19,
+    "An online retailer wants to save money and is considering migrating to the public cloud so capacity can be added during the peak shopping season and automatically removed when the peak is over. Which of the following BEST describes this aspect of cloud computing?",
+    [
+      [
+        "A. Rapid elasticity",
+        "B. Metered utilization",
+        "C. Shared resources",
+        "D. High availability"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    20,
+    "A technician is receiving reports that the entire office sporadically loses network connectivity throughout the day. The technician determines the root cause to beEMI. Which of the following cable mediums would be the MOST cost effective without sacrificing system performance?",
+    [
+      [
+        "A. Coaxial",
+        "B. Shielded Cat 6",
+        "C. Plenum Cat 5e",
+        "D. Multimode fiber"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    21,
+    "An organization maintains various record types, including health and criminal justice records. Which of the following cloud environments is the organization MOST likely to use to limit the attack surface?",
+    [["A. Public", "B. Hybrid", "C. Community", "D. Private"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    22,
+    "Which of the following describes metered utilization of cloud resources?",
+    [
+      [
+        "A. Resources provisioned instantly",
+        "B. Payments made only for resources that are used",
+        "C. Resources pooled to increase computing power",
+        "D. Implementation of rapid elasticity"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    23,
+    "A user on a SOHO network is unable to watch online videos, even at 240 pixels. The technician runs ipconfig from the userג€™s computer and records the following:Connection-specific DNS Suffix .: lanLink-local IPV6 Address.........: fe80::1585:7fb2:b05f:7102%12IPv4 Address....................: 192.168.1.131Subnet Mask.....................: 255.255.255.0Default Gateway.................: 192.168.1.1The technician then connects a test laptop to the router via the userג€™s Cat 5 cable and records the following information:Download: 85 mbps -Upload: 22 mbps -Ping: 28 ms -Which of the following is MOST likely causing the userג€™s issue?",
+    [
+      [
+        "A. Incorrect IP address",
+        "B. Faulty NIC",
+        "C. Misconfigured default gateway",
+        "D. Bad network cable"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    24,
+    "A colleague has a laptop that has been working as expected for several years, but the laptop now has a small bulge in the bottom casing and overheats occasionally while plugged in to a wall outlet. The MOST likely component that needs to be replaced is the:",
+    [["A. power adapter.", "B. battery.", "C. system fan.", "D. hard drive."]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    25,
+    "A company just bought a printer capable of automatically printing on both sides of the paper. After installation, however, the technician can only print on both sides of the paper manually. Which of the following should the technician do to fix the issue?",
+    [
+      [
+        "A. Install the most recent firmware upgrade available for the printer.",
+        "B. Contact the vendor for a hardware replacement.",
+        "C. Reinstall the printer software and drivers, and then restart the printer.",
+        "D. Read the installation manual and configure duplex settings."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    26,
+    "A small office has a wireless network with several access points for roaming laptop use. Users occasionally report that the wireless connection drops or becomes very slow. Users have confirmed that this issue only happens when connected to the office wireless network. Which of the following would MOST likely be the cause?",
+    [
+      [
+        "A. Hidden SSID",
+        "B. Device interference",
+        "C. Ethernet port flapping",
+        "D. High ISP latency"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    27,
+    "Which of the following cloud models maintains access, even when a local internet outage occurs?",
+    [["A. Private", "B. SaaS", "C. Community", "D. Public"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    28,
+    "A user is researching hard drives to upgrade a PC and has decided to purchase a NVMe drive. Which of the following should the user confirm are available on thePC before making the purchase? (Choose two.)",
+    [["A. SATA", "B. M.2", "C. PCIe.", "D. SAS", "E. SCSI", "F. DRAM"]],
+    "                                          Answer :                      BC                                      "
+  ],
+  [
+    29,
+    "A laptop has been returned for a screen repair. The owner insists the screen is broken, but occasionally a faded image is able to be seen in very bright settings on the desktop. Which of the following steps should the repair technician take FIRST?",
+    [
+      [
+        "A. Replace the graphics card.",
+        "B. Replace the screen, as the customer insists.",
+        "C. Recommend the usage of an external display instead.",
+        "D. Ensure the backlight is functioning as expected."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    30,
+    "A laptop PC user is reporting issues with the hard drive. A filesystem check shows that all files are accessible and the filesystem is clean. After the check, the PC still issues a hard drive error message. Which of the following is the MOST likely cause of the error?",
+    [
+      [
+        "A. S.M.A.R.T failure",
+        "B. IOPS failure",
+        "C. DIMM failure",
+        "D. RAID failure"
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    31,
+    "A user reboots a machine. On rebooting, the user hears one beep, and then an error message is displayed. Which of the following are MOST likely causing this issue? (Choose two.)",
+    [
+      [
+        "A. RAM module",
+        "B. Graphics card",
+        "C. CPU",
+        "D. Boot order",
+        "E. USB flash drive",
+        "F. Power supply"
+      ]
+    ],
+    "                                          Answer :                      AC                                      "
+  ],
+  [
+    32,
+    "A salesperson is using a weather application on a mobile device. The application appears to be draining the deviceג€™s battery very quickly. Which of the following is the BEST action for the salesperson to take in order to view weather forecasts while travelling?",
+    [
+      [
+        "A. Enable the GPS service to ensure accurate location detection.",
+        "B. Manually enter office locations in the weather application.",
+        "C. Configure less frequent location checks using cellular location services.",
+        "D. Use the officesג€™ Wi-Fi IP addresses as the geolocation mechanism. "
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    33,
+    "A technician replaced a motherboard on a server, and now the 64-bit hypervisor is not loading correctly. Which of the following needs to be enabled for the hypervisor to run?",
+    [["A. Hardware prefetcher", "B. Hyperthreading", "C. vPro", "D. VT-d"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    34,
+    "A userג€™s mobile phone gets really hot to the touch and does not retain a charge. The user also reports that the phone is very slow, especially while charging.Which of the following is MOST likely causing these symptoms?",
+    [
+      [
+        "A. Broken charging port",
+        "B. Digitizer failure",
+        "C. CPU overheating",
+        "D. Defective battery"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    35,
+    "A Microsoft Windows user is preparing to work in another country and needs to comply with corporate policy for data protection when copying files to portable media. Which of the following solutions would MOST likely satisfy this requirement?",
+    [
+      [
+        "A. A USB 3.1 flash drive with BitLocker to Go installed",
+        "B. An SD memory card with NTFS",
+        "C. An xD memory card with ext3",
+        "D. A portable hard drive with FAT32"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    36,
+    "Which of the following network devices is used to separate broadcast domains?",
+    [["A. Switch", "B. Wireless access point", "C. Router", "D. Hub"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    37,
+    "A user submits a help desk ticket regarding a smartphone that will no longer accept its charging cable. The assigned technician notices the phone does not have a protective case, and the user constantly transports the phone in a pocket. The technician attempts to use a secondary charger, but the cable falls out of the phone. Which of the following is the MOST likely cause of the issue?",
+    [
+      [
+        "A. The phone requires a firmware update to address charging issues.",
+        "B. The charge port contains foreign objects, such as lint.",
+        "C. The phoneג€™s battery has swelled, preventing the utilization of the charge port. ",
+        "D. The phone has experienced water damage, thus the battery is not charging."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    38,
+    "A network administrator was notified that laptop users are unable to access or ping any network resources on the corporate network. Which of the following should the network administrator check FIRST?",
+    [["A. DHCP", "B. AAA", "C. DNS", "D. ARP"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    39,
+    "A user in a medical office contacts a technician regarding a printer that is used to print A4-sized labels. After the labels are printed, they mistakenly contain white space in the middle of the page. Which of the following would MOST likely be the cause?",
+    [
+      [
+        "A. Contaminated fuser",
+        "B. Worn rollers",
+        "C. A misfeed",
+        "D. Page orientation"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    40,
+    "Upon booting a workstation, a technician hears a distinct clicking sound after power is applied to the motherboard. Which of the following would MOST likely be the cause?",
+    [["A. RAID", "B. SSD", "C. S.M.A.R.T", "D. HDD"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    41,
+    "A technician identified an issue on a workstation, obtained details from the user, and made a backup of the system. Which of the following should the technician do NEXT?",
+    [
+      [
+        "A. Determine the next steps to resolve the issue and document it.",
+        "B. Design a plan of action to resolve the issue and implement the solution.",
+        "C. Document the findings, actions, and outcomes.",
+        "D. Establish a theory of probable cause, researching internally or externally as needed."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    42,
+    "An organization has some computers running macOS and some computers running Windows. The computers running macOS also need to run a piece of software that is only available on Windows. Which of the following BEST describes the solution for running Windows software on a computer running macOS?",
+    [
+      [
+        "A. Operating system spoofing",
+        "B. Remote software provisioning",
+        "C. Indirect software implementation",
+        "D. Cross-platform virtualization"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    43,
+    "A field technician has been dispatched to a site with an internet outage. Upon arriving, the technician discovers that the POTS lines are not working as well. Which of the following technologies is the site MOST likely using?",
+    [["A. Fiber", "B. Cable", "C. DSL", "D. Satellite"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    44,
+    "An online retailer would like to add capacity to support increased sales. Additional servers have been installed. Which of the following should be used to ensure each new server is being properly utilized?",
+    [
+      [
+        "A. Virtualization",
+        "B. Clustering",
+        "C. Load balancer",
+        "D. Round-robin DNS"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    45,
+    "A user contacts the help desk in reference to a failing thumbprint scanner. The user states the scanner was functioning correctly yesterday. Which of the following troubleshooting steps should be performed FIRST after the ticket has been filed?",
+    [
+      [
+        "A. Inquire about possible changes.",
+        "B. File a damage report.",
+        "C. Requisition a new scanner.",
+        "D. Attempt to clean the scanner."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    46,
+    "A company wants to use client-side virtualization for application testing. Which of the following configurations would BEST support this goal?",
+    [
+      [
+        "A. CPU 2.5GHz - 4 cores 16GB DDR4 RAM 1TB SSD",
+        "B. CPU 3.2GHz - 1 core 16GB DDR4 RAM 4TB SSD",
+        "C. CPU 2.5GHz - 2 cores 16GB DDR4 RAM 4x 1TB HDD RAID 5",
+        "D. CPU 3.2GHz - 4 cores 8GB DDR4 RAM 500GB HDD"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    47,
+    "A user submitted a ticket to report an issue with a new printer that is no longer accepting new print jobs. The technician verifies the printer is on and notices the printer LCD screen has the following error message:Paper Jam, Jam in Fuser.Which of the following is the MOST efficient next step the technician should complete?",
+    [
+      [
+        "A. Apply a maintenance kit to the printer.",
+        "B. Check the printer paper path to locate any obstructions.",
+        "C. Turn the printer on and off to see if the error clears.",
+        "D. Replace the fuser."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    48,
+    "Which of the following is a valid use for PaaS?",
+    [
+      [
+        "A. Off-site backups",
+        "B. An application development environment",
+        "C. A virtual server installation and configuration model",
+        "D. A web application for asset management"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    49,
+    "A company has a dot matrix printer that uses carbon paper. The company reports that the first page is printing too light, although the following pages are still legible. Which of the following MOST likely needs to be fixed?",
+    [
+      [
+        "A. The print drum is worn and loose, causing the printing to be light in places.",
+        "B. The ribbon is low on ink or missing and must be replaced to get proper output.",
+        "C. The heating element has failed, and a new one needs to be installed for proper transfer.",
+        "D. The wrong type of filament is loaded, preventing it from sticking correctly.",
+        "E. The fuser assembly is not calibrated properly, causing it to impact the paper too hard."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    50,
+    "The IT department at an insurance brokerage needs to acquire laptops that have built-in fingerprint readers in order to create a more secure environment. Which of the following would be the MOST secure way to implement the fingerprint readers?",
+    [
+      [
+        "A. Grant all registered employees access to each machine.",
+        "B. Restrict device access to only the user to whom the laptop is assigned.",
+        "C. Limit device access to departments and guest users.",
+        "D. Give each team member a USB drive that bypasses the reader to allow guest users to log in."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    51,
+    "A technician receives several error alerts on a server after an unexpected reboot. A message states that one or more disks are in a degraded state. When the technician advances to the next error message, it indicates the OS is missing. Which of the following are the MOST likely causes of these errors? (Choose two.)",
+    [
+      [
+        "A. Missing drives in the OS",
+        "B. RAID failure",
+        "C. Bootable device not found",
+        "D. Data loss",
+        "E. Controller failure",
+        "F. CMOS corruption",
+        "G. TPM malfunction"
+      ]
+    ],
+    "                                          Answer :                      BD                                      "
+  ],
+  [
+    52,
+    "A technician is commissioning a workstation that is required to have mirrored storage, utilizing two 4TB drives that support one failure. Which of the followingBEST meets these requirements?",
+    [["A. RAID 0", "B. RAID 1", "C. RAID 5", "D. RAID 10"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    53,
+    "A laptopג€™s external webcam software is running, but it shows no image or video. Which of the following should a technician perform FIRST?",
+    [
+      [
+        "A. Research new webcam firmware.",
+        "B. Restart the computer and run system diagnostics.",
+        "C. Reseat the webcam.",
+        "D. Reinstall the webcam software and drivers."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    54,
+    "An engineer is experiencing unexpected reboots on a graphics workstation when rendering complex 3-D models. The workstation is configured with a 115V power supply that is rated at 200W and connected to a UPS. The central processing unit contains 16 hyperthreaded cores, and a discrete graphics solution utilizing an 8- pin power connector is installed in a PCI Express x16 slot. Which of the following indicates where the technician should begin troubleshooting?",
+    [
+      [
+        "A. The UPS, as 115V is insufficient for the configuration and should be increased to 220V",
+        "B. The power supply, as 200W is insufficient when the GPU is heavily tasked",
+        "C. The graphics card, as it is the component that triggers the unexpected reboots",
+        "D. The motherboard, as only standard PCI slots should be used for high-end graphics cards, not PCI Express slots"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    55,
+    "Which of the following technologies can allow multiple networks to traverse a switch?",
+    [["A. VLAN", "B. VRRP", "C. VPN", "D. DHCP"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    56,
+    "An end user reports that the time and date on a desktop resets after shutdown, and subsequently, the device reboots. The next day, the desktop does not load theOS and is stuck at a black screen with the following message:Date/Time Not Set -Press F1 to Run Setup -Which of the following would be the BEST action to take next?",
+    [
+      [
+        "A. Change the motherboard.",
+        "B. Reseat the motherboard power connections.",
+        "C. Replace the CMOS battery.",
+        "D. Restore the BIOS to factory default settings."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    57,
+    "A user reports that a PC occasionally fails to boot. The user reboots the PC, but the performance is degrading. The technician hears a strange, repetitive, ticking noise coming from the PC. Which of the following should the technician do FIRST?",
+    [
+      [
+        "A. Try to extract data.",
+        "B. Reseat the RAM modules.",
+        "C. Inspect the fan.",
+        "D. Check the CD tray."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    58,
+    "A technician is upgrading a faulty motherboard that was ordered by an end user for an old, high-end desktop computer. However, the technician is unable to install the CPU into the socket. Upon closer inspection, the technician notices the pins on the CPU do not line up with the socket. Which of the following would be the best course of action for the technician to take NEXT?",
+    [
+      [
+        "A. Try to set as many pins as possible.",
+        "B. Install an adaptor to create a universal socket.",
+        "C. Verity the socket type and manufacturer.",
+        "D. Find a compatible motherboard for the CPU."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    59,
+    "A remote user reports connectivity issues with the local internet provider. Even after a technician reboots the modem supplied by the ISP, the issue persists.Which of the following would BEST establish the connection in minimal time?",
+    [
+      [
+        "A. Radio frequency ISP",
+        "B. Neighborג€™s WI-FI ",
+        "C. Mobile hotspot",
+        "D. Fiber optic"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    60,
+    "A company wants to give third-party developers access to the corporate network through desktop environments that the company can control. Which of the following can BEST achieve these requirements?",
+    [["A. Sandbox", "B. VDI", "C. Private cloud", "D. SaaS"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    61,
+    "A technician needs to fix a Cat 5 cable issue. The cable, which is connected to a network jack, fails when it is moved around. Which of the following items must the technician use to fix the issue? (Choose two.)",
+    [
+      [
+        "A. Scissors",
+        "B. Network tap",
+        "C. Magnetized screwdriver",
+        "D. Tone generator",
+        "E. RJ45 connector",
+        "F. Crimper"
+      ]
+    ],
+    "                                          Answer :                      EF                                      "
+  ],
+  [
+    62,
+    "A user acquired a new workstation and is attempting to open multiple large Excel files simultaneously. The user is not experiencing the expected performance when executing such large requests. Which of the following should a technician do FIRST?",
+    [
+      [
+        "A. Increase the swap partition.",
+        "B. Upgrade the CPU in the workstation.",
+        "C. Upgrade the power supply in the workstation.",
+        "D. Upgrade the RAM in the workstation."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    63,
+    "Which of the following utilizes TCP ports 20/21 and transfers data in cleartext?",
+    [["A. SNMP", "B. SSH", "C. FTP", "D. Telnet"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    64,
+    "An organization is looking to upgrade the processing ability for its computers. Most users report that whenever multiple applications are being utilized, the systemג€™s response time slows down drastically. When only one application is open, the response time is acceptable. Which of the following should be upgradedFIRST?",
+    [["A. SSD", "B. CPU", "C. HDD", "D. RAM"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    65,
+    "Client-side virtualization guest machines have security requirements similar to physical machines, but they also need to ensure separation from other guest machines. Which of the following BEST describes this client-side guest security requirement?",
+    [["A. Isolation", "B. Authentication", "C. Hardening", "D. Authorization"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    66,
+    "A user connects a smartphone to a laptop. Which of the following types of networks has the user created?",
+    [["A. PAN", "B. MAN", "C. WLAN", "D. LAN"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    67,
+    "Recently, an organization received a number of spam emails that passed through the spam gateway. These emails contained generally the same information, but the sending domains were different. Which of the following solutions would BEST help mitigate the issue?",
+    [
+      [
+        "A. Updating the keyword filtering",
+        "B. Editing the sender policy framework",
+        "C. Contacting the gateway vendor",
+        "D. Verifying DMARC is enabled"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    68,
+    "Several users who share a multifunction printer in an office have reported unintended, thin, vertical lines that cover the entire height of every page printed from the printer. Which of the following steps should a technician complete in order to MOST likely resolve this issue?",
+    [
+      [
+        "A. Replace the printer paper with a new ream.",
+        "B. Clear the print spooler on each computer.",
+        "C. Reinstall the printer driver on each computer.",
+        "D. Perform the drum-cleaning procedure."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    69,
+    "Which of the following should the data center hardware technician implement to ensure maximum uptime for customersג€™ virtual machines?",
+    [
+      [
+        "A. Line conditioner",
+        "B. AC voltage regulator",
+        "C. Uninterruptible power supply",
+        "D. Cloud storage backup"
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    70,
+    "A technician needs to improve a workstationג€™s overall response time for frequently used applications and data without removing the current hard drive. Which of the following storage devices should the technician install to BEST accomplish the objective?",
+    [["A. M.2", "B. SAS", "C. HDD", "D. SCSI"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    71,
+    "A technician is setting up a device to use two-factor authentication. Which of the following meets this requirement?",
+    [
+      [
+        "A. Thumbprint/retinal scan",
+        "B. Password/password",
+        "C. Password/thumbprint",
+        "D. Password/PIN"
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    72,
+    "Which of the following BEST describes the main function of a web server?",
+    [
+      [
+        "A. Storing files and controlling user access",
+        "B. Setting up personal mailboxes and calendars",
+        "C. Providing IP addresses and printing services",
+        "D. Hosting home pages and business portals"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    73,
+    "A user brings an older laptop to the help desk and reports issues with the keyboard. Upon inspection, the technician does not see any external damage but notices that many keystrokes do not register in a word processor. The laptop works fine when the technician tests it with an external keyboard. Which of the following actions would MOST likely resolve the issue?",
+    [
+      [
+        "A. Disable the sticky keys feature.",
+        "B. Clean the keyboard.",
+        "C. Reset the BIOS settings to default.",
+        "D. Charge the laptop."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    74,
+    "An administrator is configuring a corporate-owned smartphone for a new manager. The company requires the ability to wipe the phoneג€™s data remotely in the event of loss or theft and the capability to approve applications installed on the phone. Which of the following tools would BEST meet this need?",
+    [
+      [
+        "A. Tethering to a corporate-owned laptop",
+        "B. WPA2-Enterpise wireless",
+        "C. Corporate enterprise email",
+        "D. Mobile device management"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    75,
+    "A user reports that printed receipts have black smudges over the entire image. The text is still present but is very dark and sometimes illegible. Which of the following are the MOST likely cause and solution for the printer issue?",
+    [
+      [
+        "A. The ribbon is jammed and is rubbing on the paper. Clear the bad ribbon and feed it through properly.",
+        "B. The printhead is too hot. Adjust the temperature down and retry printing.",
+        "C. The printer is loaded with the wrong type of paper. Replace the receipt paper with carbon paper.",
+        "D. The blue ink cartridge was loaded with black ink. Put in the correct ink and clean the printhead."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    76,
+    "A user requested upgrades to a company-issued laptop to increase its performance while working with a large database stored on drive C: Which of the following tasks should a systems administrator complete to BEST meet this goal? (Choose two.)",
+    [
+      [
+        "A. Configure RAID 1.",
+        "B. Install a hybrid drive.",
+        "C. Upgrade to 1GB NIC.",
+        "D. Increase the RAM.",
+        "E. Migrate to a SSD.",
+        "F. Upgrade the power supply."
+      ]
+    ],
+    "                                          Answer :                      BD                                      "
+  ],
+  [
+    77,
+    "A developer is requesting permission to utilize client-side virtualization. The developer would like to write code in a setting isolated from other infrastructure to avoid negative impacts of experimental code. Which of the following provides the BEST solution for the developer?",
+    [
+      [
+        "A. Cross-platform functionality",
+        "B. Software compatibility",
+        "C. Test case development",
+        "D. Sandbox environment"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    78,
+    "A user takes a tablet to a technician because the cursor on it keeps drifting. The technician notices the screen does not appear to be damaged. Which of the following is the MOST likely cause of the cursor issue?",
+    [
+      [
+        "A. The screen is physically damaged.",
+        "B. The screen rotation is incorrect.",
+        "C. The touch-pen battery is depleted.",
+        "D. The screen needs to be recalibrated."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    79,
+    "A user reports issues with a smartphone after dropping it. The icons on the screen all look normal, but when the user touches the email icon, for example, nothing happens. Which of the following is MOST likely the cause?",
+    [
+      [
+        "A. Digitizer issues",
+        "B. Overheating",
+        "C. Broken screen",
+        "D. Malware"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    80,
+    "Which of the following options provides correct information about 2.4GHz and 5GHz wireless frequencies? (Choose two.)",
+    [
+      [
+        "A. 2.4GHz has less interference. 5GHz transmits in lower speed.",
+        "B. 2.4GHz penetrates solid objects more effectively. 5GHz provides faster data connections.",
+        "C. 2.4GHz has a higher data rate. 5GHz has 23 channels.",
+        "D. 2.4GHz has 11 channels. 5GHz has no data interference.",
+        "E. 2.4GHz has a higher coverage area. 5GHz has higher bandwidth.",
+        "F. 2.4GHz has a higher bandwidth. 5GHz has lower transmit power."
+      ]
+    ],
+    "                                          Answer :                      BE                                      "
+  ],
+  [
+    81,
+    "A technician is tasked with upgrading a laptopג€™s RAM. Which of the following steps should the technician take FIRST?",
+    [
+      [
+        "A. Confirm that both the current and new memory are from the same brand.",
+        "B. Run a diagnostic test on the current memory.",
+        "C. Verify the memory requirements of the motherboard.",
+        "D. Connect an electrostatic discharge strap."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    82,
+    "A startup is looking to immediately expand its data center but does not have the personnel or space to manage everything internally. The organization has multiple small offices and remote users with large computational and storage-solution requirements. Funding is not an issue for the company. Which of the following canBEST accomplish the companyג€™s goals?",
+    [["A. SaaS", "B. IaaS", "C. ISP", "D. SDN"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    83,
+    "A technician is configuring a new CAD workstation that has four large hard drives. The workstation will be used to edit large, critical files, so the storage configuration should be both fast and redundant. Which of the following RAID levels BEST meets these requirements?",
+    [["A. 0", "B. 1", "C. 5", "D. 10"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    84,
+    "A technician receives a ticket that states a mobile payment device is having issues with its contactless payment feature. The device is not detecting payment options. Which of the following is the MOST likely cause of the issue?",
+    [["A. NFC", "B. Bluetooth", "C. Wi-Fi", "D. Lightning adapter"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    85,
+    "A technician is troubleshooting an old desktop system that randomly shows a Windows BSOD or powers off unexpectedly. All system temperatures are within normal limits. Which of the following should the technician do NEXT?",
+    [
+      [
+        "A. Visually inspect the motherboard capacitors.",
+        "B. Verify all case fans are operational.",
+        "C. Check that the BIOS version supports the installed CPU.",
+        "D. Compare the software requirements with the installed RAM."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    86,
+    "A user calls the help desk for assistance configuring an Android phone with a new NFC-enabled speaker that will be used for an upcoming conference call. The user was unable to direct the phoneג€™s audio to the NFC speaker. Which of the following sequences should the help desk technician walk the customer through to accomplish this task?",
+    [
+      [
+        "A. Enable NFC on the speaker. Ensure the speaker is less than 33ft (10m) from the Android phone. On the phoneג€™s Bluetooth settings menu for Connected Devices, select Pair New Device. Tap to accept the connection to the speaker when the prompt is displayed on the phoneג€™s screen. ",
+        "B. Enable NFC and Bluetooth on the Android phone. From the Android phoneג€™s Bluetooth settings menu for Connected Devices, select the Previously Connected Devices option. Select a listed device that most closely matches the speaker. Tap to accept the connection to the speaker when the prompt is displayed on the phoneג€™s screen. ",
+        "C. Enable NFC and Bluetooth on the Android phone. Tap and hold the Android phone to the spot on the speaker where the NFC logo is displayed. Accept the connection to the speaker when the prompt is displayed on the phoneג€™s screen. ",
+        "D. Enable Wi-Fi on the speaker. Enable Wi-Fi on the Android phone. Tap and hold the Android phone to the spot on the speaker where the NFC logo is displayed. Accept the connection to the speaker when the prompt is displayed on the phoneג€™s screen. "
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    87,
+    "A user wants a second monitor installed on a laptop. The VGA/DVI or HDMI cables have already been connected. Which of the following should the technician do to configure the laptop to show both screens?",
+    [
+      [
+        "A. Power cycle the laptop.",
+        "B. Plug in the monitor to the USB port.",
+        "C. Adjust the monitor display settings.",
+        "D. Power cycle the monitor."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    88,
+    "A technician is troubleshooting intermittent fuzzy video on a computer using a VGA to DisplayPort adapter to connect to a monitor. The monitor with a VGA connector was previously working fine for another user. The technician replaces the adapter; however, the issue persists. Which of the following should the technician do NEXT?",
+    [
+      [
+        "A. Use another brand of VGA to DisplayPort adapter.",
+        "B. Research the issue further and formulate a new hypothesis to test.",
+        "C. Ask the user additional clarifying questions regarding the issue.",
+        "D. Document the action taken and the outcome."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    89,
+    "A user on the marketing team uses various multimedia applications that consume a lot of memory. The user needs to install more RAM to run these applications effectively. When the user opens the computer case, the user sees four slots in two sets of colors. Which of the following memory types is MOST likely required?",
+    [
+      [
+        "A. Dual-channel",
+        "B. Triple-channel",
+        "C. Single-channel",
+        "D. Quad-channel",
+        "E. Error correction code RAM"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    90,
+    "Which of the following allows all VMs in a virtual environment to have RAM allocated for use?",
+    [
+      [
+        "A. Measured service",
+        "B. Containerization",
+        "C. Synchronization",
+        "D. Resource pooling"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    91,
+    "Which of the following 802.11 standards supports both 5GHz and 2.4GHz channel frequencies?",
+    [["A. 802.11a", "B. 802.11ac", "C. 802.11b", "D. 802.11g"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    92,
+    "A hardware technician is configuring a laptop, and the network administrator requires the network settings to be static. The technician successfully pings the servers by IP address but cannot ping the UNC path. Which of the following is the cause of this issue?",
+    [["A. Domain Name System", "B. Gateway", "C. Subnet", "D. IP address"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    93,
+    "A technician has set up a new conference room with a TV and a video soundbar. The technician wants to test the system with a conference call. During the test, the TV speaker produces sound, but the soundbar does not. Which of the following is the MOST likely cause of the issue?",
+    [
+      [
+        "A. The volume on the TV needs to be turned up.",
+        "B. The conference call needs to be unmuted for audio.",
+        "C. An incorrect HDMI cable is being used.",
+        "D. The TVג€™s HDMI-ARC port is not being used. "
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    94,
+    "A technician is setting up a projector for a videoconferencing system. When the user attempts to connect a laptop to the system, the system displays the following error message: no source foundThe user tries multiple cables and inputs on the projector. Which of the following should the user try NEXT?",
+    [
+      [
+        "A. Check the bulb on the projector and replace it with a new one.",
+        "B. Check the display settings on the computer and set them to extend/duplicate.",
+        "C. Replace the projector with another known-good one and try again.",
+        "D. Replace the video card on the machine that is plugged in to the projector, as it has gone bad."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    95,
+    "Which of the following is a method that can be used to securely connect a remote userג€™s laptop to a corporate server?",
+    [["A. WAN", "B. VPN", "C. SSL", "D. DHCP"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    96,
+    "A technician is inspecting a projector that is displaying fuzzy images. Which of the following actions would provide the BEST solution?",
+    [
+      [
+        "A. Adjusting the lens",
+        "B. Changing the filter",
+        "C. Replacing the video cable",
+        "D. Reseating the lamp"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    97,
+    "An end user discovered that the touch-screen features on a Windows device have stopped working. Which of the following should a technician check?",
+    [
+      [
+        "A. Performance monitor",
+        "B. Tablet/PC settings",
+        "C. System configuration",
+        "D. Display settings"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    98,
+    "A help desk technician has been tasked with installing an IP phone in a small office with an unmanaged switch. When connected to an RJ45 receptacle, the phone does not boot. Which of the following is the QUICKEST way to resolve this issue?",
+    [
+      [
+        "A. Upgrade the Ethernet cable to the latest specification.",
+        "B. Replace the phone.",
+        "C. Install a PoE injector.",
+        "D. Change ports on the switch."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    99,
+    "Which of the following network services allows a networked device to always be assigned the same IP address based on the deviceג€™s MAC address?",
+    [["A. DHCP", "B. LOAP", "C. UTM", "D. DNS"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    100,
+    "A technician installs a new printer for a workstation and tries to print a test page, but the page does not print. The technician looks at the print queue and notices that the printer is called ג€Generic Printer.ג€ Which of the following BEST describes what the technician should do to fix this issue?",
+    [
+      [
+        "A. Connect the printer with a USB cable rather than over the network.",
+        "B. Install the appropriate printer drivers for the OS.",
+        "C. Install the correct toner in the printer.",
+        "D. Set the printer trays to allow duplex printing."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    101,
+    "A user creates a support ticket to report a conference room projector that does not work. The user says that even though the provided cables are being used, the projector screen shows the following error message:No Signal Input -Which of the following describes the FIRST action that should be taken?",
+    [
+      [
+        "A. Verify that the projector is turned on.",
+        "B. Verify that the user is using an approved OS.",
+        "C. Replace the projector bulb.",
+        "D. Check the video cable and replace it if necessary."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    102,
+    "A technician was called in to look at a userג€™s PC. The user reported the PC was very sluggish. The HDD light on the PC was constantly on without blinking. ThePC itself was slow receiving input and took a very long time to load the OS. The technician also noticed updates had failed. Which of the following is MOST likely the cause of these issues?",
+    [
+      [
+        "A. The hard disk drivers have been corrupted.",
+        "B. The HDD cables need reseating.",
+        "C. A RAID disk failed.",
+        "D. The HDD has no free space."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    103,
+    "A user entered a help desk ticket stating the latest calendar updates have not appeared on the userג€™s corporate mobile device for several days, even though updates do appear on the userג€™s laptop. Which of the following actions will MOST likely enable calendar alerts?",
+    [
+      [
+        "A. Checking that the ringer volume on the device is high enough to be audible",
+        "B. Ensuring the corporate password is saved correctly in the calendar application",
+        "C. Installing a third-party calendar application and synchronizing it with the corporate calendar",
+        "D. Remotely wiping the mobile device and reinstalling all applications"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    104,
+    "A technical lead wants to migrate all common business applications, including email and fileshares, to the cloud. Which of the following cloud concepts should be used?",
+    [["A. MaaS", "B. PaaS", "C. SaaS", "D. IaaS"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    105,
+    "A new version of Windows was released and a piece of software vital to the engineering department will not run on the new version. Which of the following is theBEST option to enable this department to be able to continue using this software?",
+    [
+      [
+        "A. Do not upgrade any workstations within the organization.",
+        "B. Upgrade all workstations and provide a virtual environment for the legacy software.",
+        "C. Upgrade all workstations except those used by the engineering department.",
+        "D. Purchase new workstations for the engineering department."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    106,
+    "A technician made several upgrades to a computer and then determined the power supplied by the PSU is insufficient. Which of the following would MOST likely cause the insufficiency? (Choose two.)",
+    [
+      [
+        "A. Replacing the HDD with an SSD",
+        "B. Upgrading the firmware",
+        "C. Adding an optical drive",
+        "D. Adding more RAM",
+        "E. Adding a CMOS battery",
+        "F. Upgrading the graphics card"
+      ]
+    ],
+    "                                          Answer :                      AF                                      "
+  ],
+  [
+    107,
+    "A technician is replacing a computer with a connected point-of-sale system using a 9-pin serial adapter. The new computer does not have a 9-pin serial port.Which of the following ports can an adapter be installed on in order to connect to the point-of-sale system?",
+    [["A. HDMI", "B. Bluetooth", "C. USB", "D. Lightning"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    108,
+    "Which of the following network types would be used in a server room to connect virtual servers to high-speed storage?",
+    [["A. WAN", "B. PAN", "C. MAN", "D. SAN"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    109,
+    "A desktop support technician is tasked with upgrading a laptop so that it has the fastest data access possible. Which of the following BEST satisfies this requirement?",
+    [["A. mSATA SSD", "B. M.2 NVMe SSD", "C. 2.5 SATA SSD", "D. 2.5 SAS HHD"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    110,
+    "The Chief Executive Officer wants to ensure company data is stored in a manner that provides the company with complete control over how the data is managed.Which of the following is the BEST cloud deployment model for this request?",
+    [["A. Community", "B. Hybrid", "C. Public", "D. Private"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    111,
+    "A user sends a print job to a network printer, and the print job uses double the amount of paper as expected. Which of the following should the user configure to get the expected result?",
+    [["A. Duplex", "B. Collate", "C. Landscape", "D. Transparency"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    112,
+    "A help desk technician thinks a desktop PC has failed due to a defective power supply. Which of the following steps should the technician take NEXT?",
+    [
+      [
+        "A. Inquire about environmental or infrastructure changes.",
+        "B. Conduct external or internal research based on symptoms.",
+        "C. Establish a plan of action to resolve the problem and implement the solution.",
+        "D. Document the findings, actions, and outcomes."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    113,
+    "A startup company is outgrowing its current office space and is requiring employees to work remotely. The company must comply with government-enforced requirements to safeguard all aspects of data, so the IT department plans to maintain complete control over usersג€™ operating systems. Which of the following should the IT department implement?",
+    [["A. VDI", "B. IaaS", "C. VPN", "D. SaaS"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    114,
+    "Which of the following would be the BEST reason to use a virtual machine as a sandbox?",
+    [
+      [
+        "A. To test new software in a safe environment",
+        "B. To increase the efficient use of computing resources",
+        "C. To run multiple machines on the same hardware",
+        "D. To have dedicated hardware for a single system"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    115,
+    "Which of the following would MOST likely be used to connect one or more devices to the internet in a SOHO?",
+    [
+      ["A. Hub", "B. Ethernet gateway", "C. Wireless access point", "D. Router"]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    116,
+    "A technician is preparing to set up a gaming computer with the following components:✑ Discrete, high-end graphics card✑ Video capture card✑ High-end processor✑ Multiple hard drives✑ USB 3.0 hub✑ Sound cardWhich of the following options is the MOST important for the technician to consider before building the gaming computer?",
+    [
+      [
+        "A. Redundant power supply",
+        "B. Modular power supply",
+        "C. 20-pin vs. 24-pin power adapter",
+        "D. Power supply wattage rating"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    117,
+    "Which of the following is the PRIMARY security concern with virtual machine escape?",
+    [
+      [
+        "A. Cross-site scripting",
+        "B. Compromising the hypervisor",
+        "C. Overutilization of resources",
+        "D. Rogue virtual machines installed on the hypervisor"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    118,
+    "An IT manager is requesting that the company buy new cables to be used with F-type connectors that are already in house. Which of the following cables should the company buy?",
+    [["A. Coaxial", "B. Plenum", "C. Cat 5e", "D. Fiber"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    119,
+    "A user reports a cell phone is getting hot. Which of the following are MOST likely to be possible causes? (Choose three.)",
+    [
+      [
+        "A. Using the device as a Wi-Fi hotspot",
+        "B. A cracked screen",
+        "C. A failing battery",
+        "D. Less than 15% free storage space on the phone",
+        "E. Privileged control",
+        "F. Recurring prompts to install OS updates",
+        "G. Granting too many application camera permissions",
+        "H. Too many open applications"
+      ]
+    ],
+    "                                          Answer :                      ACH                                      "
+  ],
+  [
+    120,
+    "A technician configured a new SOHO router for a small business. The ISP gave the technician an IP address on the routerג€™s WAN port. Which of the following addresses did the technician MOST likely configure on the router?",
+    [["A. 10.1.50.30", "B. 19.45.7.28", "C. 169.254.168.10", "D. 172.22.40.6"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    121,
+    "A technician is diagnosing a workstation that shuts down unexpectedly during a burn-in test. Which of the following is the MOST likely cause for this symptom?",
+    [
+      [
+        "A. Faulty CMOS battery",
+        "B. OS update issue",
+        "C. Overheating",
+        "D. Faulty RAM"
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    122,
+    "The help desk received a ticket regarding issues with a laser printer. The printer has had repairs previously for scanning issues. Currently, the printed text is not adhering properly to the paper. Which of the following should be replaced to resolve this issue?",
+    [["A. Fuser", "B. Waste container", "C. Roller", "D. Toner"]],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    123,
+    "Which of the following types of devices MOST often uses a Thunderbolt cable?",
+    [["A. Linux PC", "B. Android mobile", "C. Apple laptop", "D. Chromebook"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    124,
+    "A department sends in a ticket to report a printer is not working. The responding technician sees paper stuck to the fuser, which is much hotter than normal. The fuser was just installed a few weeks ago, as indicated by the service history. Which of the following should the technician do NEXT?",
+    [
+      [
+        "A. Disable the printer for repairs.",
+        "B. Install a printer roller kit.",
+        "C. Remove the paper and let the fuser cool down.",
+        "D. Replace the paper with thicker paper stock."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    125,
+    "A user reports limited or no connectivity on a laptop. A technician runs ipconfig /all with the following result:IPv4 connectivity...limited or noneIPv4 address...169.254.254.1 -subnet mask...255.255.0.0default gateway...Which of the following is the MOST likely cause of this issue?",
+    [
+      [
+        "A. DHCP failure",
+        "B. ARP cache",
+        "C. DNS resolution",
+        "D. Duplicate IP address"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    126,
+    "A Wi-Fi mesh network has been optimized to eliminate poor coverage areas, yet users still experience decreased bandwidth and connectivity issues. Which of the following actions should the technician take NEXT?",
+    [
+      [
+        "A. Relocate any large, dense, solid, and metal objects, such as mirrors and file cabinets, in the mesh network coverage area to the perimeter so that wireless reflections, absorptions, and occlusions are minimized.",
+        "B. Use a Wi-Fi analyzer to determine whether the channel in use is overcrowded and to identify which channel the mesh network should use for best performance.",
+        "C. Use the signal strength indicator on a mobile device to roam the coverage area and generate a heat map to isolate zones with weak signals.",
+        "D. Turn off broadcasting of the SSID on the mesh network so that other networks cannot see it."
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    127,
+    "Which of the following are default ports for HTTP and HTTPS traffic? (Choose two.)",
+    [["A. 23", "B. 25", "C. 80", "D. 143", "E. 389", "F. 443"]],
+    "                                          Answer :                      CF                                      "
+  ],
+  [
+    128,
+    "Documents are not printing out correctly from a laser printer at a conference. Some of the print is missing, and the pages come out unreadable. Which of the following should a technician do to fix this issue?",
+    [
+      [
+        "A. Exchange the transfer roller.",
+        "B. Recalibrate the printer.",
+        "C. Clear the jam.",
+        "D. Replace the fuser assembly."
+      ]
+    ],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    129,
+    "Which of the following is an unsecure remote access protocol?",
+    [["A. SSH", "B. HTTPS", "C. SFTP", "D. Telnet"]],
+    "                                          Answer :                      D                                      "
+  ],
+  [
+    130,
+    "Which of the following cable types is the standard connector on printers?",
+    [["A. DVI", "B. eSATA", "C. USB", "D. Lightning"]],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    131,
+    "Which of the following is the MAXIMUM power PoE+ provides?",
+    [["A. 15.4W", "B. 30W", "C. 60W", "D. 95W"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    132,
+    "A user reports the touch screen on an Android smartphone is not responding to any input. The technician has cleared the cache, restarted the phone, and ensured the phone is fully charged. The issue still persists. Which of the following should the technician replace on the phone to MOST likely resolve the issue?",
+    [
+      [
+        "A. System on a chip",
+        "B. Accelerometer",
+        "C. Digitizer",
+        "D. Gyroscope"
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    133,
+    "Which of the following is the SAFEST way to replace RAM on a server that has a redundant power supply?",
+    [
+      [
+        "A. Unplug one power cable",
+        "B. Verify the RAM temperature",
+        "C. Utilize a grounding strap",
+        "D. Replace the RAM while the server is running"
+      ]
+    ],
+    "                                          Answer :                      C                                      "
+  ],
+  [
+    134,
+    "A customer is using a satellite internet connection that is experiencing slowness. A technician notices high latency while pinging, but the download test is performing perfectly with very good download speeds. Which of the following represents the NEXT action the technician should perform?",
+    [
+      [
+        "A. Restart the modem and run an online internet connection and speed diagnostic tool.",
+        "B. Guide the customer on how to upgrade the internet plan with the provider in order to improve latency",
+        "C. Explain to the customer this is not an issue; this situation is normal for this type of internet connection.",
+        "D. Replace the modem because it is not working correctly based on the test result."
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    135,
+    "An end user contacted a technician about a laser printer that was no longer printing images on the left side of the page. The technician replaced the toner cartridge, but the issue has persisted. Which of the following should the technician perform NEXT?",
+    [
+      [
+        "A. Replace the imaging drum",
+        "B. Realign the pickup rollers.",
+        "C. Clean the duplexing assembly.",
+        "D. Calibrate the printer"
+      ]
+    ],
+    "                                          Answer :                      A                                      "
+  ],
+  [
+    136,
+    "A systems administrator has been tasked with allowing SMTP traffic through the systems host-based firewall. Which of the following ports should the administrator enable?",
+    [["A. 23", "B. 25", "C. 80", "D. 161"]],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    137,
+    "A technician is monitoring all outbound traffic in a SOHO. Which of the following is the MOST cost-effective solution to monitor the traffic?",
+    [
+      [
+        "A. Spectrum analyzer",
+        "B. Network tap",
+        "C. Loopback plug",
+        "D. Toner probe"
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ],
+  [
+    138,
+    "A technician recently discovered the root cause of an application error that several users have been experiencing. The technician updated the configurations on the affected machines and verified full functionality was restored for all users. Which of the following actions should the technician perform NEXT?",
+    [
+      [
+        "A. Write a knowledge base article in the ticketing software to expedite future incidents.",
+        "B. Submit a bug report to the developer of the application, along with the steps taken to resolve the issue.",
+        "C. Work with the developer to proactively collect the application logs to identify future errors of this type.",
+        "D. Send an email communication to the company about the issue and the steps taken to resolve it."
+      ]
+    ],
+    "                                          Answer :                      B                                      "
+  ]
+]

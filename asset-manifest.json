@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/220-1101_Guide/static/css/main.39b500b5.css",
+    "main.js": "/220-1101_Guide/static/js/main.fc40329f.js",
+    "index.html": "/220-1101_Guide/index.html",
+    "main.39b500b5.css.map": "/220-1101_Guide/static/css/main.39b500b5.css.map",
+    "main.fc40329f.js.map": "/220-1101_Guide/static/js/main.fc40329f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b500b5.css",
+    "static/js/main.fc40329f.js"
+  ]
+}
